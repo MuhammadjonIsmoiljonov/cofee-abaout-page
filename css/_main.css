@@ -71,7 +71,6 @@ img {
   font-style: normal;
   font-weight: 900;
   src: local(""), url("../fonts/fraunces-v10-latin-900.woff2") format("woff2"), url("../fonts/fraunces-v10-latin-900.woff") format("woff");
-  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 .header {
   display: flex;
