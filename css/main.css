@@ -35,7 +35,7 @@ img {
 }
 
 .container {
-  max-width: 1400px;
+  max-width: 130px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
@@ -77,9 +77,8 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 44px 81px;
 }
-.header .header-list {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.header-item {
+  list-style-type: none;
 }/*# sourceMappingURL=main.css.map */

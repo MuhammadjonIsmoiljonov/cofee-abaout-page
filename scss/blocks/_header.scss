@@ -2,11 +2,16 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 44px 81px;
 
 .header-list{
-display: flex;
-justify-content: space-between;
-align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+&-item{
+    list-style-type: none;
+
   }
 }
 
