@@ -1,0 +1,36 @@
+.main{
+  display: flex;
+  width: 1110px;
+  height: 520px;
+  margin: 0 auto;
+  margin-bottom: 186px;
+  padding: 0;
+
+  &-img{
+    width: 445px;
+    height: 520px;
+  }
+
+  &-brother{
+  max-width: 540px;
+  min-height: 340px;
+  margin-top: 90px;
+  margin-left: 125px;
+
+  &__hed{
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+  }
+  &__tex{
+    max-width: 540px;
+    min-height:260px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    opacity: 0.8;
+  }
+  }
+}
