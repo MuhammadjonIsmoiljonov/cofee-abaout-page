@@ -24,21 +24,21 @@
 }
 
 // CSSda retina ekranlar uchun background image ni moslash
-@media
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (   min--moz-device-pixel-ratio: 2),
-only screen and (     -o-min-device-pixel-ratio: 2/1),
-only screen and (        min-device-pixel-ratio: 2),
-only screen and (                min-resolution: 192dpi),
-only screen and (                min-resolution: 2dppx) { 
+// @media
+// only screen and (-webkit-min-device-pixel-ratio: 2),
+// only screen and (   min--moz-device-pixel-ratio: 2),
+// only screen and (     -o-min-device-pixel-ratio: 2/1),
+// only screen and (        min-device-pixel-ratio: 2),
+// only screen and (                min-resolution: 192dpi),
+// only screen and (                min-resolution: 2dppx) { 
   
-  /* Retina-specific stuff here */
-}
-@media only screen and (max-width:768px) {
-  .header{
-    padding: 40px 40px 53px;
-  }
-}
+//   /* Retina-specific stuff here */
+// }
+// @media only screen and (max-width:768px) {
+//   .header{
+//     padding: 40px 40px 53px;
+//   }
+// }
 
 
 
